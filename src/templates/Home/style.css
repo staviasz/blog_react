@@ -1,0 +1,27 @@
+#root {
+  background-color: #eee;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 100vh;
+  background-color: #eee;
+  padding: 30px;
+}
+
+img {
+  width: 100%;
+}
+
+.btn-container {
+  min-height: 60px;
+  display: flex;
+  align-items: flex-end;  
+  margin: 30px 0;
+}
+
+.search-container,
+h1 {
+  margin-bottom: 30px ;
+}
